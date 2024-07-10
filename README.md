@@ -1,5 +1,5 @@
 FRACTAL :
-Affiche une fractale de Julia, avec la relation de récurrence z_{n+1} = z_n^2 + c,
+Affiche une fractale de Julia, avec la relation de récurrence z_{n+1} = z_{n}^2 + c,
 avec c étant défini dans le programme comme le nombre complexe de module r et
 d'argument theta.
 
